@@ -7,7 +7,7 @@ const PostCard = ({ name, description, skills, onLike, onDislike }) => {
         <h5 className="card-title">{name}</h5> {/* Display the name of the poster */}
         <p className="card-text">{description}</p> {/* Display the post description */}
         <p className="card-text">
-          <strong>Skills:</strong> {skills.join(", ")} {/* Display skills as a comma-separated list */}
+          <strong>Skills:</strong> {skills.join(",  ")} {/* Display skills as a comma-separated list */}
         </p>
         <div className="d-flex justify-content-between">
           <button className="btn btn-success" onClick={onLike}>

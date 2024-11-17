@@ -37,7 +37,7 @@ function Login() {
   };
 
   return (
-    <GoogleOAuthProvider clientId="temp">
+    <GoogleOAuthProvider clientId="184666644575-g58qjcn9kb1luotktcm8ueuq4bev8m12.apps.googleusercontent.com">
       <div className="container d-flex justify-content-center align-items-center" style={{ height: '100vh' }}>
         <div className="text-center">
           <img src="/logo.png" alt="Logo" style={{ width: '150px', marginBottom: '20px' }} />
