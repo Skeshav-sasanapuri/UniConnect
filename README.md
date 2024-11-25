@@ -72,14 +72,23 @@ Follow the steps below to set up UniConnect on your local machine:
 4. Open your browser and navigate to `http://localhost:3000`.
 
 ## Screenshots  
-### Home Page  
-![Home Page](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/chat%20page.png))  
+### Login Page
+![Login Page](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/login%20page.png)
 
-### Search and Filter  
-![Search and Filter](screenshots/search.png)  
+### Profile page
+![Profile Pafe](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/create%20profile.png)
 
-### Upload Photos  
-![Upload Photos](screenshots/upload.png)
+### Create posts  
+![Ppost creation](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/create%20post.png))  
+
+### My Posts
+![Personal posts page](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/My%20posts%20page.png)
+
+### Personalized Feed Page
+![Personalized feed](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/post%20feed%20page.png)  
+
+### Chat page
+![Chat with interested students](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/chat%20page.png)
 
 
 ## Usage
