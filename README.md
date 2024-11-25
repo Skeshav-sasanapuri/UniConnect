@@ -73,7 +73,7 @@ Follow the steps below to set up UniConnect on your local machine:
 
 ## Screenshots  
 ### Home Page  
-![Home Page](screenshots/chat page.png)  
+![Home Page](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/chat%20page.png))  
 
 ### Search and Filter  
 ![Search and Filter](screenshots/search.png)  
