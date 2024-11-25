@@ -73,7 +73,7 @@ Follow the steps below to set up UniConnect on your local machine:
 
 ## Screenshots  
 ### Login Page
-![Login Page](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/login%20page.png)
+![Login Page](screenshots/login%20page.png)
 
 ### Profile page
 ![Profile Pafe](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/create%20profile.png)
