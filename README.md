@@ -76,19 +76,19 @@ Follow the steps below to set up UniConnect on your local machine:
 ![Login Page](screenshots/login%20page.png)
 
 ### Profile page
-![Profile Pafe](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/create%20profile.png)
+![Profile Pafe](screenshots/create%20profile.png)
 
 ### Create posts  
-![Ppost creation](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/create%20post.png))  
+![Ppost creation](screenshots/create%20post.png))  
 
 ### My Posts
-![Personal posts page](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/My%20posts%20page.png)
+![Personal posts page](screenshots/My%20posts%20page.png)
 
 ### Personalized Feed Page
-![Personalized feed](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/post%20feed%20page.png)  
+![Personalized feed](screenshots/post%20feed%20page.png)  
 
 ### Chat page
-![Chat with interested students](https://github.com/Skeshav-sasanapuri/UniConnect/blob/main/screenshots/chat%20page.png)
+![Chat with interested students](screenshots/chat%20page.png)
 
 
 ## Usage
