@@ -71,6 +71,17 @@ Follow the steps below to set up UniConnect on your local machine:
 
 4. Open your browser and navigate to `http://localhost:3000`.
 
+## Screenshots  
+### Home Page  
+![Home Page](screenshots/homepage.png)  
+
+### Search and Filter  
+![Search and Filter](screenshots/search.png)  
+
+### Upload Photos  
+![Upload Photos](screenshots/upload.png)
+
+
 ## Usage
 
 1. **Login**: Use your institutional email to log in via Google OAuth.
