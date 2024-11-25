@@ -1,5 +1,5 @@
 
-# UniConnect - Community-Centric College Collaboration Platform
+# UniConnect - Social media app for colleges centered around building communities  
 
 UniConnect is a web-based platform designed to connect college students based on shared skills and interests. The platform enables users to create profiles, share opportunities, and interact with like-minded peers, fostering collaboration and community building.
 
@@ -105,7 +105,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
